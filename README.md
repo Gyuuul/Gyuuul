@@ -1,10 +1,10 @@
 ### Hi there, I'm Gwongueri 🖐🏻
 
-💬 I want to be a developer who learns new knowledge, shares and grows with others !
+💬 I want to be a developer who learns **new knowledge**, shares and grows with others !
 
-Also, I enjoy communicating and collaborating positively 🥰
+Also, I enjoy **communicating and collaborating** positively 🥰
 </br>
-If you have any questions about me, please send me an email,
+If you have any questions about me, please send me an **email**,
 
 Thank you for visiting my github profile. Have a nice day !✨
 
