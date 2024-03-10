@@ -1,4 +1,4 @@
-### Hi there, I'm gyeri 🖐🏻
+### Hi there, I'm gyuri 🖐🏻
 
 💬 I want to be a developer who learns **new knowledge**, shares and grows with others !
 
