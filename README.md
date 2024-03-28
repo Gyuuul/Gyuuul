@@ -1,8 +1,8 @@
-### Hi there, I'm gyuri 🖐🏻
+### 안녕하세요, 권규리입니다. 🖐🏻
 
-💬 I want to be a developer who learns **new knowledge**, shares and grows with others !
+👩🏻‍💻 현재 공부 중인 프론트엔드 개발자입니다.
 
-**Thank you for visiting my github profile. Have a nice day !✨**
+**프로필을 방문해 주셔서 감사합니다. 좋은 하루 보내세요!✨**
 
 <!--
 **Gyuuul/Gyuuul** is a  _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
